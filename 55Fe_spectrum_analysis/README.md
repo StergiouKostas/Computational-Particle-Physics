@@ -209,7 +209,9 @@ double ratio = area_59keV / area_escape;
 
 ## 📊 Results
 
-![55Fe_fit_results](55Fe_fit_results.png)
+<p align="center">
+  <img src="55Fe_fit_results.png" width="60%" alt="55Fe Fit Results">
+</p>
 
 - **5.9 keV peak area:** `87,295.7`  
 - **Escape peak area:** `344,669`  
@@ -220,6 +222,6 @@ The ratio of the 5.9 keV peak to the escape peak is:
 \boxed{0.253}
 ```
 
-This ratio reflects the detector’s relative response to primary and escape events from $^{55}$Fe X-ray irradiation.
+This ratio reflects the detector’s relative response to primary and escape events from <sup>55</sup>Fe X-ray irradiation.
 
 ---
