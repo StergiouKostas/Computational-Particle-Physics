@@ -1,4 +1,4 @@
-# Exercise 1 - Spectrum analysis on $^{55}$Fe using ROOT
+# Exercise 1 - Spectrum analysis on <sup>55</sup>Fe using ROOT
 
 **Aristotle University of Thessaloniki**  
 **Physics Department**  
