@@ -34,4 +34,4 @@ This code performs the first step of the B⁺ → J/ψ K⁺ analysis, focusing o
 ## Usage
 The code keeps the plots open for manual inspection and saving through ROOT's GUI interface. Close the window to terminate the program.
 
-![B+ Properties Visualization](figures/Bplus_properties.png)
+![B+ Properties Visualization](Bplus_properties.png)
