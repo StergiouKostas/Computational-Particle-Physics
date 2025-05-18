@@ -32,4 +32,10 @@ This analysis helps determine:
 - Momentum-dependent reconstruction performance
 
 ## Key Output
-The code prints the suggested optimal coverage:
+The code prints the suggested optimal coverage: |y| < 0.0167948, pT > 7789.81 MeV/c
+
+## Usage Notes
+- Left plot shows physical acceptance space
+- Right plot indicates momentum-dependent efficiency
+- Results guide detector design and trigger configuration
+- Interactive plots for detailed inspection
